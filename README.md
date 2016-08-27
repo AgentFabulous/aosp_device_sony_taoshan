@@ -3,6 +3,8 @@ Copyright 2015 - The CyanogenMod Project
 Sony Xperia L
 ==============
 
+WIP. DO NOT USE. WILL EAT YOUR CAT.
+
 The Sony Xperia L (codenamed _"Taoshan"_) is a mid-range smartphone from Sony Mobile.
 
 It was announced in March 2013.
@@ -20,4 +22,4 @@ Camera  | 8MPx, LED Flash
 
 ![Sony Xperia L](http://cdn2.gsmarena.com/vv/pics/sony/sony-xperia-l-01.jpg "Sony Xperia L in black")
 
-This branch is for building CyanogenMod 13.0 (or Android Marshmallow 6.0 AOSP based roms) ROMS.
+This branch is for building Android Marshmallow 7.0 AOSP based ROMS.
