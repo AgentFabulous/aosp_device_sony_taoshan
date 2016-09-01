@@ -24,7 +24,7 @@ TARGET_SPECIFIC_HEADER_PATH := $(DEVICE_PATH)/include
 include $(DEVICE_PATH)/PlatformConfig.mk
 include $(DEVICE_PATH)/board/*.mk
 
-#TARGET_SPECIFIC_HEADER_PATH := device/sony/taoshan/kernel-headers
+#Board kernel headers
 PRODUCT_VENDOR_KERNEL_HEADERS := device/sony/taoshan/kernel-headers
 
 # Board device vendor
